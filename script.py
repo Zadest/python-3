@@ -37,7 +37,6 @@ print()
 print(text)
 print(jpg)
 print(html)
-#alexandermodrzewski@gmail.com
 
 
 for textFile in text:
